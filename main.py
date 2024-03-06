@@ -6,6 +6,9 @@ from tkinter import simpledialog
 from tkinter import messagebox
 import datetime
 from PIL import Image, ImageTk
+from environemnt_variables import API_KEY
+
+api_key = API_KEY
 
 
 def get_users_location():
@@ -45,7 +48,7 @@ def check_clouds(clouds):
 def get_current_weather(latitude, longitude):
     response = requests.get(f"https://api.openweathermap.org/data/3.0/onecall?lat={latitude}&lon="
                             f"{longitude}&units=metric&exclude=minutely,hourly,daily,alerts&appid="
-                            f"{API_KEY_open_weather}")
+                            f"{api_key}")
     data = response.json()
     current_data = data['current']
     current_temp = current_data['temp']
@@ -60,7 +63,7 @@ def get_current_weather(latitude, longitude):
 def get_hourly_weather(latitude, longitude):
     response = requests.get(f"https://api.openweathermap.org/data/3.0/onecall?lat={latitude}&lon="
                             f"{longitude}&units=metric&exclude=minutely,current,daily&appid="
-                            f"{API_KEY_open_weather}")
+                            f"{api_key}")
     data = response.json()
     hourly_data = data['hourly']
     hour_temps = []
