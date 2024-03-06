@@ -1,0 +1,201 @@
+miejscowsc,szerokosc,dlugosc
+Warszawa,52.23,21.00
+Kraków,50.06,19.94
+Łódź,51.77,19.46
+Wrocław,51.11,17.03
+Poznań,52.41,16.93
+Gdańsk,54.35,18.65
+Szczecin,53.43,14.53
+Bydgoszcz,53.13,18.00
+Lublin,51.25,22.56
+Białystok,53.13,23.15
+Katowice,50.26,19.04
+Gdynia,54.52,18.54
+Częstochowa,50.81,19.12
+Radom,51.40,21.16
+Toruń,53.01,18.61
+Sosnowiec,50.29,19.10
+Kielce,50.87,20.63
+Rzeszów,50.04,21.99
+Gliwice,50.29,18.67
+Zabrze,50.30,18.78
+Olsztyn,53.78,20.49
+Bielsko-Biała,49.82,19.05
+Bytom,50.35,18.91
+Rybnik,50.09,18.55
+Ruda Śląska,50.27,18.85
+Tychy,50.13,18.97
+Gorzów Wielkopolski,52.74,15.23
+Dąbrowa Górnicza,50.35,19.21
+Płock,52.55,19.71
+Elbląg,54.16,19.40
+Opole,50.67,17.93
+Wałbrzych,50.78,16.29
+Głogów,51.66,16.09
+Tarnów,50.01,20.99
+Chorzów,50.30,18.97
+Kalisz,51.76,18.09
+Koszalin,54.20,16.18
+Legnica,51.21,16.16
+Grudziądz,53.48,18.75
+Słupsk,54.46,17.03
+Jaworzno,50.20,19.27
+Jastrzębie-Zdrój,49.96,18.55
+Jelenia Góra,50.91,15.73
+Nowy Sącz,49.63,20.71
+Konin,52.23,18.25
+Piotrków Trybunalski,51.41,19.70
+Siedlce,52.17,22.28
+Inowrocław,52.80,18.25
+Mysłowice,50.22,19.18
+Piła,53.15,16.75
+Lubin,51.41,16.20
+Ostrowiec Świętokrzyski,50.93,21.39
+Ostrow Wielkopolski,51.66,17.81
+Gniezno,52.53,17.58
+Stargard Szczeciński,53.34,15.05
+Siemianowice Śląskie,50.31,19.02
+Suwałki,54.11,22.94
+Głowno,51.83,19.72
+Pabianice,51.67,19.36
+Gniezno,52.53,17.58
+Stargard Szczeciński,53.34,15.05
+Siemianowice Śląskie,50.31,19.02
+Suwałki,54.11,22.94
+Głowno,51.83,19.72
+Pabianice,51.67,19.36
+Wieliczka,49.98,20.06
+Cieszyn,49.75,18.63
+Zgierz,51.87,19.40
+Nowa Sól,51.80,15.72
+Lębork,54.54,17.75
+Mielec,50.29,21.43
+Tarnowskie Góry,50.45,18.86
+Chojnice,53.70,17.57
+Kędzierzyn-Koźle,50.35,18.22
+Bolesławiec,51.27,15.57
+Mikołów,50.18,18.91
+Pszczyna,49.98,18.95
+Zduńska Wola,51.60,18.93
+Stalowa Wola,50.57,22.05
+Starachowice,51.06,21.06
+Świdnica,50.85,16.47
+Zamość,50.72,23.26
+Krosno,49.69,21.76
+Ostrów Wielkopolski,51.65,17.80
+Mława,53.11,20.38
+Oświęcim,50.03,19.22
+Piaseczno,52.05,21.03
+Zawiercie,50.49,19.42
+Nowa Ruda,50.58,16.50
+Kościerzyna,54.12,17.97
+Jarocin,51.98,17.49
+Staszów,50.57,21.18
+Świecie,53.41,18.57
+Strzelce Opolskie,50.51,18.30
+Jędrzejów,50.64,20.25
+Lubsko,51.80,14.94
+Augustów,53.84,22.97
+Szczytno,53.56,20.99
+Oleśnica,51.21,17.39
+Koło,52.20,18.64
+Złotoryja,51.13,15.91
+Mińsk Mazowiecki,52.18,21.56
+Wołomin,52.32,21.24
+Bartoszyce,54.25,20.85
+Ostróda,53.70,19.97
+Lębork,54.54,17.75
+Płońsk,52.62,20.39
+Sanok,49.56,22.21
+Kędzierzyn-Koźle,50.35,18.22
+Żyrardów,52.06,20.44
+Knurów,50.19,18.82
+Lubon,52.34,16.90
+Marki,52.31,21.11
+Turek,52.02,18.48
+Luboń,52.35,16.91
+Gostyń,51.88,17.01
+Opoczno,51.39,20.30
+Głogów Małopolski,50.29,21.73
+Białogard,54.00,15.98
+Żary,51.64,15.15
+Kościan,52.09,16.64
+Szamotuły,52.61,16.58
+Brzeg Dolny,51.16,16.72
+Oborniki,52.65,16.82
+Tomaszów Mazowiecki,51.54,20.02
+Police,53.55,14.57
+Prudnik,50.32,17.58
+Lubartów,51.46,22.62
+Żagań,51.62,15.31
+Ozorków,51.96,19.29
+Góra,51.67,16.56
+Żabno,50.23,20.75
+Mszczonów,51.87,20.48
+Złocieniec,53.54,16.01
+Wieluń,51.22,18.56
+Kostrzyn,52.59,14.64
+Nidzica,53.38,20.43
+Czarnków,52.86,16.58
+Oborniki Śląskie,51.30,16.67
+Strzegom,50.98,16.33
+Kościerzyna,54.12,17.97
+Babimost,52.15,15.83
+Działoszyn,51.29,18.60
+Kościan,52.09,16.64
+Wodzisław Śląski,50.00,18.50
+Łowicz,52.11,19.91
+Tarnów,50.01,20.59
+Świdnica,50.50,16.30
+Zamość,50.43,23.16
+Płock,52.33,19.42
+Siedlce,52.09,22.17
+Ełk,53.50,22.22
+Ostrów Wielkopolski,51.39,17.49
+Wałbrzych,50.47,16.17
+Włocławek,52.39,19.04
+Suwałki,54.06,22.57
+Tomaszów Mazowiecki,51.31,20.02
+Włoszczowa,50.52,19.59
+Żary,51.38,15.08
+Myszków,50.35,19.19
+Chojnice,53.42,17.33
+Gostynin,52.26,19.28
+Stalowa Wola,50.34,22.04
+Zakopane,49.17,19.58
+Starogard Gdański,53.58,18.32
+Ostrowiec Świętokrzyski,50.56,21.23
+Piaseczno,52.04,21.01
+Starachowice,51.03,21.04
+Radomsko,51.04,19.27
+Skierniewice,51.58,20.09
+Krosno,49.41,21.45
+Inowrocław,52.48,18.15
+Żyrardów,52.03,20.27
+Tczew,54.05,18.46
+Sandomierz,50.41,21.44
+Kętrzyn,54.05,21.23
+Staszów,50.34,21.11
+Szamotuły,52.36,16.34
+Krotoszyn,51.41,17.26
+Września,52.19,17.35
+Dzierżoniów,50.44,16.39
+Starogard Szczeciński,53.22,15.14
+Pionki,51.29,21.28
+Złotoryja,51.07,15.54
+Nowa Ruda,50.29,16.30
+Jarosław,50.01,22.40
+Ostróda,53.42,19.58
+Krasnystaw,50.59,23.10
+Lubartów,51.27,22.36
+Łańcut,50.04,22.15
+Prudnik,50.18,17.35
+Strzelce Opolskie,50.30, 18.18
+Bogatynia,50.54,14.57
+Lubaczów,50.09,23.08
+Kościan,52.06,16.39
+Kowary,50.47,15.49
+Czechowice-Dziedzice,49.50,19.01
+Strzegom,50.57,16.20
+Gryfino,53.15,14.30
+Krapkowice,50.28,17.58
